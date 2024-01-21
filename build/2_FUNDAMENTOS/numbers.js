@@ -1,0 +1,10 @@
+"use strict";
+let x = 30;
+console.log(x);
+x = 16;
+console.log(x);
+console.log(typeof x);
+const y = 15.832732;
+console.log(y);
+console.log(typeof y);
+console.log(y.toPrecision(3));
