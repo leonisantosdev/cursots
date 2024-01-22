@@ -1,8 +1,8 @@
 // Array criada do tipo ANY que é aceita qualquer tipo de dado;
 // SYNTAXE BASE DO JAVASCRIPT
-const arrayAny: any = [1, "String", true, [], {}]; /* Variáveis do tipo any
+const arrayAny: any = [1, "String", true, [], {}]; /* Tipagens do tipo any
 // devem ser evitadas a todo custo, pois tipar algo com any é a mesma coisa
-// que não tipar, e um código não tipado é um código BUGADO! */
+// que não tipar e um código não tipado é um código BUGADO! */
 
 // A SOMENTE DOIS CASOS QUE O TIPO ANY PODE SER ENVOLVIDO
 

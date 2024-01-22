@@ -1,6 +1,6 @@
 // Declaração de variável do tipo array numérico em TS
 let numbers: number[] = [1, 2, 3,]; /* Os arrays em typescripts também devem ser tipados
-informando qual conteúdo apenas terá dentro, podendo colocar mais tipos se necessário */
+informando qual conteúdo terá dentro, podendo colocar mais tipos se necessário */
 
 numbers.push(4); // Exemplo de uma função de um ARRAY do TIPO NUMBER
 // numbers.push(true) <== // A mesma função agora porém esta dando erro já que o tipo de dado passado para ela
