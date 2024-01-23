@@ -27,4 +27,4 @@ function preGreeting(f: (name: string) => string, userName: string) {
 
 
 preGreeting(greeting, "Lele");
-preGreeting(greeting, "João");
+preGreeting(greeting, "João"); 

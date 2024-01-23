@@ -10,4 +10,4 @@ function biggestNumber(a, b) {
     return biggest;
 }
 console.log(biggestNumber(2, 3));
-console.log(biggestNumber('5', '5'));
+console.log(biggestNumber('4', '5'));
