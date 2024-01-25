@@ -7,8 +7,8 @@ function showUserDetails(user) {
 }
 const u1 = {
     email: "lele@gmail.com",
-    role: "Developer"
+    role: "Developer",
 };
 const u2 = {
-    email: "joaozinho@gmail.com"
+    email: "joaozinho@gmail.com",
 };

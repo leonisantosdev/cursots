@@ -8,6 +8,6 @@ function showProductDetails(product) {
 const leggs = {
     name: "Camisa",
     price: 19.99,
-    isAvailable: true
+    isAvailable: true,
 };
 showProductDetails(leggs);

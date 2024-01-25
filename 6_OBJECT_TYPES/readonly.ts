@@ -8,9 +8,10 @@ interface Car {
 }
 
 const fusca: Car = {
-  brand: "Vw",
+  brand: "Volkswagen",
   wheels: 4, // Declarando o número 4 para a propriedade readonly
 };
 
 console.log(fusca);
 // fusca.wheels = 5;  // Tentando atribuir um novo valor, mas isso gerará erro
+// pois readonly é apenas leitura e nunca poderá ser alterada

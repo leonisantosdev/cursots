@@ -1,6 +1,6 @@
 "use strict";
 const fusca = {
-    brand: "Vw",
+    brand: "Volkswagen",
     wheels: 4,
 };
 console.log(fusca);
