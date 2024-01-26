@@ -11,10 +11,13 @@ interface Human {
 }
 
 interface SuperHuman extends Human {
+  // Estendendo as propriedades de Human para SuperHuman
   superpowers: string[];
 }
 
 const lele: Human = {
+  // Criando um objeto e tipando como Human fazendo com que seja obrigatório passar
+  // as propriedades dessa interface.
   name: "Lele",
   age: 24,
 };

@@ -14,10 +14,13 @@ console.log(firstElement(["a", "b", "c"]));
 function mergeObjects<U, T>(obj1: U, obj2: T) {
   return {
     ...obj1,
-    ...obj2
-  }
+    ...obj2,
+  };
 }
 
-const newObject = mergeObjects({name: "Lele"}, {age: 30, job: "Programmer"})
+const newObject = mergeObjects(
+  { name: "Lele" },
+  { age: 30, job: "Programmer" }
+);
 
-console.log(newObject)
+console.log(newObject);

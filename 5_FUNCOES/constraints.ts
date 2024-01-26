@@ -1,4 +1,3 @@
-
 // Aqui temos uma função com um tipo genérico, onde poderemos definir o nome
 // do nosso tipo, sendo ele próprio nosso (genérico) e atribuir tipagem a este
 // tipo.
@@ -21,5 +20,5 @@ function biggestNumber<T extends number | string>(a: T, b: T): T {
 // Básicamente está função retorna o maior número passado entre os dois parâmetros
 // de acordo com a tipagem genérica.
 
-console.log(biggestNumber(2, 3))
-console.log(biggestNumber('4', '5'))
+console.log(biggestNumber(2, 3));
+console.log(biggestNumber("4", "5"));

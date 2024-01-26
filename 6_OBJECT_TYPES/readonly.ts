@@ -1,5 +1,5 @@
 // Aqui temos uma interface readonly, onde sua funcionalidade
-// faz com que a propriedade não possa mudar após criação, 
+// faz com que a propriedade não possa mudar após criação,
 // fazendo com que a propriedade da interface se torne uma
 // "Constante", no exemplo abaixo você verá isso:
 interface Car {

@@ -14,17 +14,16 @@ Para entender melhor, o primeiro parâmetro da função abaixo, é uma função 
 requisita uma função q tem como parâmetros uma string e um retorno de string.
 */
 function preGreeting(f: (name: string) => string, userName: string) {
-  console.log("Preaprando a função!"); 
+  console.log("Preaprando a função!");
 
   const greet = f(userName); // Aqui a variável está recebendo a função que
-  // está no primeiro parâmetro da função 'preGreetin()' e dentro dela o 
+  // está no primeiro parâmetro da função 'preGreetin()' e dentro dela o
   // parâmetro passado é o segundo parâmetro da função 'preGreeting()'.
-  //  Podemos dizer que a função 'preGreeting()', tem como parâmetro uma 
+  //  Podemos dizer que a função 'preGreeting()', tem como parâmetro uma
   // função de callback, onde o seu parâmetro tem como requisito uma string que
   // será recebida por ela mesmo.
-  console.log(greet)
+  console.log(greet);
 }
 
-
 preGreeting(greeting, "Lele");
-preGreeting(greeting, "João"); 
+preGreeting(greeting, "João");
