@@ -105,5 +105,16 @@
     /* Completeness */
     // "skipDefaultLibCheck": true,                      /* Skip type checking .d.ts files that are included with TypeScript. */
     "skipLibCheck": true                                 /* Skip type checking all .d.ts files. */
-  }
+  },
+  "include": [
+    "./1_INTRO/**/*",
+    "./2_FUNDAMENTOS/**/*",
+    "./3_AVANCANDO_EM_TIPOS/**/*",
+    // "./4_NARROWING/**/*",
+    "./5_FUNCOES/**/*",
+    "./6_OBJECT_TYPES/**/*",
+    "./7_CRIACAO_DE_TIPOS/**/*",
+    "./8_CLASSES/**/*"
+  ]
 }
+

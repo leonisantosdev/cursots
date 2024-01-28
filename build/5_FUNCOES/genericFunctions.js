@@ -7,7 +7,7 @@ console.log(firstElement(["a", "b", "c"]));
 function mergeObjects(obj1, obj2) {
     return {
         ...obj1,
-        ...obj2
+        ...obj2,
     };
 }
 const newObject = mergeObjects({ name: "Lele" }, { age: 30, job: "Programmer" });
