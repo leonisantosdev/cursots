@@ -34,3 +34,15 @@
   validamos essa props para que caso nenhum valor seja passado para ela, uma 
   verificação ( validação ) seja feita e a partir dessa validação algo aconteça
   podenso ser geralmente feita com IF
+
+# GENÉRICS
+
+  ## Genérics in TypeScript
+  Genérics são tipos personalizados que podemos criar com um nome próprio e também
+  uma tipagem própria, sendo assim fazendo com que possamos criar qualquer regra
+  e estabelecer esta regra a uma variável por exemplo.
+    Isto é muito bom pois caso não quisermos usar os tipos padrões, podemos personalizar
+  algum diferente para que nosso projeto fique de acordo com as necessidades e para que
+  a manutebilidade do código fique mais fácil futuramente.
+    Existem muitos tipos diferentes de manipular um genérico, com interfaces, constraints,
+  genérics normais e etc...
