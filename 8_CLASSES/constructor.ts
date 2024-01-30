@@ -1,3 +1,5 @@
+// Constructor são funções que irão criar
+// propriedades de uma classe.
 class NewUser {
   name
   age

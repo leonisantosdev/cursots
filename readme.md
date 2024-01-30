@@ -1,4 +1,4 @@
-# Curso de TypeScript + React.js
+# Curso de TypeScript + React.js/Express
 
 ## Status: EM ANDAMENTO
   Quando o curso for concluído e todos os arquivos documentados, estarei
@@ -37,6 +37,13 @@ também tiver as mesmas dúvidas que eu, quiser olhar e entender de uma forma
 mais simples e prática o conteúdo.
   Apenas foi documentado as partes mais relevantes e importantes para não ficar
 algo muito massivo e confuso.
+
+## Documentação ou código errado?
+
+  Caso você identifique algum código ou alguma parte da documentação que esteja
+explicada de forma errada ou muito ruim de entender, me mande uma mensagem ou me
+notifique através das minhas redes no meu perfil, pois assim posso melhorar e deixar
+de maneira mais clara e correta para você e outras pessoas!
 
 ## IMPORTANTE 
 
