@@ -5,6 +5,11 @@
 modificando o status para 'CONCLUÍDO' e tentarei colocar atualizações sobre
 os estudos todos os dias.
 
+## Aviso!
+  A documentação do curso terá somente na parte de TYPESCRIPT, pois como é um 
+curso muito grande, documentar tudo ficaria algo muito massivo e complexo. Então
+por isso somente esta parte será documentada.
+
 ## ANNOTATIOS.MD
   Caso queira tirar suas dúvidas de uma forma mais resumida e clara,
 apenas os tópicos mais relevantes e de importância irei colocar lá com uma
